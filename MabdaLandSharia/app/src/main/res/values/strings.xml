@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">Mabda Land Sharia</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title_profile">Profile</string>
+    <string name="tvatassatu">Dapatkan Property Syariah Kebutuhan Anda
+        dengan Skema 100% Murni Syariah</string>
+    <string name="tvatasdua">
+         ➡ Tanpa Riba\n➡ Tanpa Bank\n➡ Tanpa Denda\n➡ Tanpa Sita\n➡ Tanpa Bi Cechking\n</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="mabda_land_sharia">Mabda Land Sharia\n\n Version V.1.0</string>
+    <string name="detail_about">
+        Memperkenalkan sebuah aplikasi yang akan mempermudah
+        pengguna untuk melihat proyek yang dikerjakan oleh
+        Mabda Land Sharia dengan menampilkan fitur gambar
+        360 derajat yang akan memperlihatkan progress dalam
+        pembangunan yang dikerjakan oleh perusahaan kami.
+    </string>
+    <string name="penggunaan_aplikasi">
+        Panduan Aplikasi:\n\n
+        • Klik menu home untuk melihat beranda aplikasi\n
+        • Klik menu project untuk melihat project\n
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_home">fragment_home</string>
+    <string name="title_dashboard">title_dashboard</string>
+    <string name="title_notifications">title_notofications</string>
+
+    <string name="deskripsi_toolbarvratas">
+        Untuk Melihat Progress Proyek Kami :
+    </string>
+    <string name="deskripsi_toolbarvr">
+        » Klik Tombol Di Tengah Gambar\n
+        » Lihat Gambar Secara 360°
+    </string>
+
+    <string name="detail_alfath">
+
+
+    Al Fath City Moncongloe \n\nHadir Dengan Konsep Terbaru dilengkapi Dengan Berbagai Fasilitas Penunjang\n\n
+
+    Kami Menawarkan :\n\n
+    » Kavling Jumbo\n
+    » Kavling Ruko\n
+    » Kavling Rumah\n
+        » Rumah 1 Lantai dan 2 Lantai\n\n
+
+    "Kami Juga Menyiapkan Fasilitas Terbaik Untuk Anda :\n\n
+    » Jalan Utama  14 M
+    » Masjid
+    » Pos Security
+    » Kolam Renang Terpisah I / A
+    » Rumah Tahfidz
+    » Area Memanah
+    » Kolam Ikan
+    » Taman\n
+
+    Dapatkan Semua Dengan Harga Terjangkau dan Lokasi Yang Strategis"</string>
+    <string name="garisbawah">_____________________________________________________________________________</string>
+
+    <string name="tvfragmentaksesjalan">
+        Pada tampiilan virtual akses jalan
+        anda akan melihat akses jalan yang
+        nantinya akan ditempatkan pos
+        security sebagai penunjang sistem
+        kemanan perummahan al fath city
+    </string>
+
+    <string name="tvfragmentdepanruko">
+        Pada tampilan virtual depan ruko anda
+        akan melihat rancangan ruko yang kami
+        menjadi  progress pemasaran kami dan pada
+        tahappan awal ini masih berupa pondasi awal
+        untuk mendai blok-blok pada ruko
+    </string>
+
+    <string name="tvfragmentjalanporos">
+        Pada tamplilan virtual jalan poros
+        anda melihat akses jalan dari sisi
+        kiri dan kanan jalan ( Kiri mengarah
+        ke jalan poros daya dan kanan mengarah
+        ke moncongloe )
+    </string>
+
+    <string name="tvfragmenthalutama">
+        Pada tampilan virtual halaman utama
+        anda akan melihat akses jalan 14 meter
+        yang merupakan akses jalan diberikan
+        khusus bagi para calon penghuni al fath city
+        agar memberikan kenyamanan lebih sehingga
+        memberikan kepuasan pelanggan yang menjadi
+        tujuanutama kami
+    </string>
+
+    <string name="tvfragmentkantrpemasaran">
+        Pada tampilan kantor pemasaran anda
+        akan melihat rancangan kantor pemasaran
+        untuk ditempatkan pada halaman bagian
+        paling depan
+    </string>
+
+
+</resources>

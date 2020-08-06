@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_jalanporos"
+        android:title="Jalan Poros"/>
+
+    <item
+        android:id="@+id/menu_aksesjalan"
+        android:title="Akses Jalan"/>
+
+    <item
+        android:id="@+id/menu_jalanutama"
+        android:title="Jalan Utama"/>
+
+    <item
+        android:id="@+id/menu_depanruko"
+        android:title="Depan Ruko" />
+
+    <item
+        android:id="@+id/menu_kantorpemasaran"
+        android:title="Kantor Pemasaran" />
+
+    <item
+        android:id="@+id/menu_listgambar"
+        android:title="Back To List" />
+
+</menu>

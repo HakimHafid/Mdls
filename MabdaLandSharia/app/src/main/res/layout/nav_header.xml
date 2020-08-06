@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="150dp"
+    android:background="@drawable/backgroundorangesedang">
+
+
+    <ImageView
+        android:id="@+id/imageviewmabda"
+        android:layout_width="50dp"
+        android:layout_height="55dp"
+        android:layout_marginBottom="26dp"
+        android:background="@drawable/lingkarluarlogo"
+        android:src="@drawable/logomabda"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="ContentDescription" />
+
+    <TextView
+        android:id="@+id/textviewatas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Mabda Land Sharia"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:gravity="center_horizontal"
+        app:layout_constraintTop_toBottomOf="@id/imageviewmabda"
+        tools:ignore="HardcodedText" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Berkah Hidup Bahagia"
+        android:gravity="center_horizontal"
+        android:textColor="@color/black"
+        app:layout_constraintTop_toBottomOf="@id/textviewatas"
+        tools:ignore="HardcodedText" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

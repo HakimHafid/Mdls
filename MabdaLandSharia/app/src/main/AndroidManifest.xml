@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="id.kim.mabdalandsharia">
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="id.kim.aboutpict.tentang_kantorpemasaran"/>
+        <activity android:name="id.kim.aboutpict.tentanghalutama" />
+        <activity android:name="id.kim.aboutpict.tentangjalanporos" />
+        <activity android:name="id.kim.aboutpict.tentang_depanruko" />
+        <activity android:name="id.kim.aboutpict.tentang_aksesjalan" />
+        <activity
+            android:name="id.kim.vrkantorpemasaran.prosestampilkantorpemasaran"
+            android:label="Kantor Pemasaran" />
+        <activity
+            android:name="id.kim.vrjalanutama.prosestampilhalutama"
+            android:label="Jalan Utama" />
+        <activity
+            android:name="id.kim.vrjalanporos.prosestampiljalanporos"
+            android:label="Jalan Poros" />
+        <activity
+            android:name="id.kim.vrdepanruko.prosestampildepanruko"
+            android:label="Rancangan Ruko" />
+        <activity
+            android:name="id.kim.vraksesjalan.prosestampilaksesjalan"
+            android:label="Akses Jalan" />
+        <activity
+            android:name=".virtualalfath"
+            android:label="Virtual Al Fath City" />
+        <activity
+            android:name=".OurProject"
+            android:label="Project Al Fath City" />
+        <activity
+            android:name=".AboutApp"
+            android:label="About App" />
+        <activity
+            android:name=".AlFathCity"
+            android:label="Virtual Al Fath City" />
+
+        <activity android:name=".Splash"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+            <activity android:name=".MainActivity" >
+        </activity>
+    </application>
+
+</manifest>

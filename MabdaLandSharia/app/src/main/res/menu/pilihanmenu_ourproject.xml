@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeku"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home"/>
+
+    <item
+        android:id="@+id/projectku"
+        android:icon="@drawable/alfathkecil"
+        android:title="Virtual Al Fath City"/>
+
+    <item
+        android:id="@+id/aboutku"
+        android:icon="@drawable/ic_baseline_contact_support_24"
+        android:title="About Project"/>
+
+</menu>

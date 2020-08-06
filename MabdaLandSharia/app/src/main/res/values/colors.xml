@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#b6a986</color>
+    <color name="colorPrimaryDark">#9E9581</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="gold">#b88a2e</color>
+    <color name="softlight">#ffffea</color>
+    <color name="softpink">#FCE4EC</color>
+    <color name="black">#000000</color>
+    <color name="softblue">#E3F2FD</color>
+    <color name="softabu">#e0e0e0</color>
+    <color name="softrgreen">#4dff00</color>
+    <color name="softChocolate">#e9dbb6</color>
+    <color name="softgold">#daaa4a</color>
+</resources>
